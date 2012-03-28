@@ -10,9 +10,7 @@ Run the script using [AutoIt](http://www.autoitscript.com/site/autoit/) from the
 
     AutoIt3.exe win_xp_snap_app.au3
 
-Alternatively, you can download the an EXE compiled with Aut2exe and which uses an awesome icon by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com/):
-
-[http://kitmenke.com/downloads/WinXPSnapApp.zip](http://kitmenke.com/downloads/WinXPSnapApp.zip)
+Alternatively, check out the Downloads button above where you can download the an EXE compiled with Aut2exe and which uses an awesome icon by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com/): [https://github.com/downloads/kitmenke/WinXPSnapApp/WinXPSnapApp.zip](https://github.com/downloads/kitmenke/WinXPSnapApp/WinXPSnapApp.zip)
 
 Usage
 -----
